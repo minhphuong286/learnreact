@@ -1,0 +1,21 @@
+
+
+
+.list-user-container{
+
+    .title{
+        font-size: calc(20px + 1vmin);
+        margin-bottom: 20px;
+        color: rgb(169, 189, 59);
+    }
+    .list-user-content{
+        .child{
+            width: 400px;
+            height: 40px;
+            margin: 0 auto;
+            border: 1px solid grey;
+            font-size: calc(18px + 1vmin);
+            cursor: pointer;
+        }
+    }
+}
